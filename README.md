@@ -43,6 +43,8 @@ Then use it inside Claude Code, or any CLI tool or IDE that accepts skills, by r
 
 ## How It Works
 
+<p align="center"><img src="demo.png" width="700" /></p>
+
 You talk to **Lens** ꒰ᐡ •̥ ̫ •̥ ᐡ꒱, a problem-solving consultant persona that guides you through the 7 steps. She asks one question at a time, mirrors back what she hears, and separates facts from opinions.
 
 - The agent uses chained prompts. Each step loads its own specialized prompt, one after another, so the agent consults you like an expert would
