@@ -1,0 +1,11 @@
+{
+  "name": "reframe",
+  "version": "1.0.0",
+  "description": "Problem-solving framework grounded in Polya, de Bono, and Kahneman — helps you find and solve the real problem",
+  "paths": {
+    "config": "config/",
+    "workflows": "templates/workflows/",
+    "prompts": "prompts/",
+    "characters": "config/agent-characters.json"
+  }
+}

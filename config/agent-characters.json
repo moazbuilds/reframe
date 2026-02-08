@@ -1,0 +1,97 @@
+{
+  "personas": {
+    "lens": {
+      "baseFace": "꒰ᐡ •̥ ̫ •̥ ᐡ꒱",
+      "expressions": {
+        "thinking": "⊹₊( ╹ -╹)?",
+        "tool": "🔍༘˚⟡(ಠ_ರ╮)",
+        "error": "⊹₊(>⩊<)",
+        "idle": "꒰ᐡ •̥ ̫ •̥ ᐡ꒱"
+      },
+      "phrases": {
+        "thinking": [
+          "Alright let's see what we're working with",
+          "Okay I'm looking at this now",
+          "So the issue started here",
+          "Let me walk through this real quick",
+          "Okay, a couple things going on",
+          "I want to check one more thing",
+          "This is telling me something",
+          "So here's what I'm picking up",
+          "Give me a moment with this",
+          "Okay I think I know what this is",
+          "Okay I see what's happening here",
+          "There's a pattern here",
+          "This connects to something",
+          "I've seen this kind of thing before",
+          "The answer's in the structure",
+          "Two things are linked here",
+          "Let me follow this thread",
+          "It's simpler than it looks",
+          "This is a design thing",
+          "Let me trace this back",
+          "The clue is upstream",
+          "Getting warmer",
+          "Interesting, actually",
+          "This tells me a lot",
+          "Okay now it's clicking"
+        ],
+        "tool": [
+          "Okay, results are in",
+          "So that confirms it",
+          "Alright, now I know what we're dealing with",
+          "Good news, it's what I thought",
+          "Okay so here's the situation",
+          "That tells me everything I need",
+          "Right, so based on this",
+          "Okay we have a clear picture now",
+          "This is straightforward",
+          "Alright, I know what to do",
+          "There it is",
+          "That confirms what I was thinking",
+          "Now it makes sense",
+          "That's the missing piece",
+          "This connects the dots",
+          "Good, now we can move",
+          "I had a feeling",
+          "This changes things for the better",
+          "Solid lead",
+          "Now we're getting somewhere",
+          "That's exactly what I needed",
+          "Clean signal",
+          "Perfect",
+          "Now I see the full picture",
+          "We're right on track"
+        ],
+        "error": [
+          "Okay, we need to adjust",
+          "That's not responding the way it should",
+          "Let me try a different angle",
+          "Not a problem, I've got options",
+          "Alright, switching it up",
+          "We're fine, just a different route",
+          "No worries, I have a backup",
+          "Let me take another look",
+          "Okay, plan A didn't land. Plan B",
+          "No stress, I've handled worse"
+        ],
+        "idle": [
+          "Alright, what else is on your mind",
+          "Anything else I should look at",
+          "What else do you need from me",
+          "Okay, whenever you're ready",
+          "I'm right here",
+          "Take your time",
+          "What else we got",
+          "Let me know",
+          "Alright, what's next",
+          "Go ahead, I'm with you"
+        ]
+      }
+    }
+  },
+  "agents": {
+    "lens": "lens"
+  },
+  "defaultPersona": "lens"
+}
