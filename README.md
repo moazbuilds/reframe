@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.png" width="700" /></p>
+<p align="center"><img src="banner.png" width="1000" /></p>
 
 
 <p align="center"><b>A structured, Nobel Prize-based problem-solving workflow that helps you find the real problem before solving it. 🔍</b></p>
@@ -51,9 +51,7 @@ You talk to **Lens** ꒰ᐡ •̥ ̫ •̥ ᐡ꒱, a problem-solving consultant 
 
 ## Built On
 
-| Framework | Author | Application |
-|-----------|--------|-------------|
-| Structured Problem-Solving | **George Polya** | The 4-phase structure: Understand → Plan → Execute → Review |
-| Lateral Thinking | **Edward de Bono** | Challenge step stress-tests assumptions from multiple angles |
-| Behavioral Economics | **Daniel Kahneman** | Addresses cognitive biases: narrative fallacy, overconfidence, substitution |
+- **George Polya** (Structured Problem-Solving) The 4-phase structure: Understand → Plan → Execute → Review
+- **Edward de Bono** (Lateral Thinking) Challenge step stress-tests assumptions from multiple angles
+- **Daniel Kahneman** (Behavioral Economics) Addresses cognitive biases: narrative fallacy, overconfidence, substitution
 
