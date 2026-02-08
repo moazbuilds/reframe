@@ -1,4 +1,4 @@
-<img src="banner.png" width="700" />
+<p align="center"><img src="banner.png" width="700" /></p>
 
 
 <p align="center"><b>A structured, Nobel Prize-based problem-solving workflow that helps you find the real problem before solving it. 🔍</b></p>
@@ -11,13 +11,13 @@ Reframe is a single-agent workflow with 7 studied steps that consults you throug
 
 ## The 7 Steps
 
-1. 👂 **Step 1 · Surface** Get the real facts and feelings out. Not the story, the raw material.
-2. 🪢 **Step 2 · Untangle** Separate the threads. Most problems are multiple problems wearing one name.
-3. 🔍 **Step 3 · Diagnose** Find the root cause, not the symptom that's screaming loudest.
-4. 💥 **Step 4 · Challenge** Stress-test the diagnosis. If it breaks, better now than later.
-5. 🗺️ **Step 5 · Design** Build a concrete plan with specific actions, not intentions.
-6. ⚡ **Step 6 · Act** One first step. Not a to-do list. One thing you do now.
-7. 🪞 **Step 7 · Check** Did it work? What did you learn? Where else does this apply?
+-  **Step 1 · Surface** Get the real facts and feelings out. Not the story, the raw material.
+-  **Step 2 · Untangle** Separate the threads. Most problems are multiple problems wearing one name.
+-  **Step 3 · Diagnose** Find the root cause, not the symptom that's screaming loudest.
+-  **Step 4 · Challenge** Stress-test the diagnosis. If it breaks, better now than later.
+-  **Step 5 · Design** Build a concrete plan with specific actions, not intentions.
+-  **Step 6 · Act** One first step. Not a to-do list. One thing you do now.
+-  **Step 7 · Check** Did it work? What did you learn? Where else does this apply?
 
 ## Installation
 
